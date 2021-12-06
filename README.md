@@ -1,4 +1,4 @@
-# Youtube-Live
+# BADS 7205 Final Project : Youtube-Live
 
 # Members
 1. Atthasil  Jitwirote 6220422077
